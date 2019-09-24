@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\2. Change List\bin\Debug\netcoreapp2.1\2. Change List.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\2. Change List\bin\Debug\netcoreapp2.1\2. Change List.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\2. Change List\bin\Debug\netcoreapp2.1\2. Change List.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\2. Change List\bin\Debug\netcoreapp2.1\2. Change List.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\2. Change List\bin\Debug\netcoreapp2.1\2. Change List.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\2. Change List\obj\Debug\netcoreapp2.1\2. Change List.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\2. Change List\obj\Debug\netcoreapp2.1\2. Change List.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\2. Change List\obj\Debug\netcoreapp2.1\2. Change List.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\2. Change List\obj\Debug\netcoreapp2.1\2. Change List.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\2. Change List\obj\Debug\netcoreapp2.1\2. Change List.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\2. Change List\obj\Debug\netcoreapp2.1\2. Change List.pdb
