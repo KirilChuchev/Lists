@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\10.  SoftUni Course Planning\bin\Debug\netcoreapp2.1\10.  SoftUni Course Planning.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\10.  SoftUni Course Planning\bin\Debug\netcoreapp2.1\10.  SoftUni Course Planning.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\10.  SoftUni Course Planning\bin\Debug\netcoreapp2.1\10.  SoftUni Course Planning.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\10.  SoftUni Course Planning\bin\Debug\netcoreapp2.1\10.  SoftUni Course Planning.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\10.  SoftUni Course Planning\bin\Debug\netcoreapp2.1\10.  SoftUni Course Planning.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\10.  SoftUni Course Planning\obj\Debug\netcoreapp2.1\10.  SoftUni Course Planning.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\10.  SoftUni Course Planning\obj\Debug\netcoreapp2.1\10.  SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\10.  SoftUni Course Planning\obj\Debug\netcoreapp2.1\10.  SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\10.  SoftUni Course Planning\obj\Debug\netcoreapp2.1\10.  SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\10.  SoftUni Course Planning\obj\Debug\netcoreapp2.1\10.  SoftUni Course Planning.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\10.  SoftUni Course Planning\obj\Debug\netcoreapp2.1\10.  SoftUni Course Planning.pdb

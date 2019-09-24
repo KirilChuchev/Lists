@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb - last\bin\Debug\netcoreapp2.1\bomb - last.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb - last\bin\Debug\netcoreapp2.1\bomb - last.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb - last\bin\Debug\netcoreapp2.1\bomb - last.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb - last\bin\Debug\netcoreapp2.1\bomb - last.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb - last\bin\Debug\netcoreapp2.1\bomb - last.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb - last\obj\Debug\netcoreapp2.1\bomb - last.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb - last\obj\Debug\netcoreapp2.1\bomb - last.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb - last\obj\Debug\netcoreapp2.1\bomb - last.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb - last\obj\Debug\netcoreapp2.1\bomb - last.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb - last\obj\Debug\netcoreapp2.1\bomb - last.pdb

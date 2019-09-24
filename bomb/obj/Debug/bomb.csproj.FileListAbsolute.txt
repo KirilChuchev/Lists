@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb\obj\Debug\bomb.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb\obj\Debug\bomb.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb\bin\Debug\bomb.exe.config
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb\bin\Debug\bomb.exe
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb\bin\Debug\bomb.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb\obj\Debug\bomb.exe
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\bomb\obj\Debug\bomb.pdb
