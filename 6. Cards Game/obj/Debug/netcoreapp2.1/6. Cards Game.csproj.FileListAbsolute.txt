@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\6. Cards Game\bin\Debug\netcoreapp2.1\6. Cards Game.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\6. Cards Game\bin\Debug\netcoreapp2.1\6. Cards Game.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\6. Cards Game\bin\Debug\netcoreapp2.1\6. Cards Game.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\6. Cards Game\bin\Debug\netcoreapp2.1\6. Cards Game.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\6. Cards Game\bin\Debug\netcoreapp2.1\6. Cards Game.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\6. Cards Game\obj\Debug\netcoreapp2.1\6. Cards Game.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\6. Cards Game\obj\Debug\netcoreapp2.1\6. Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\6. Cards Game\obj\Debug\netcoreapp2.1\6. Cards Game.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\6. Cards Game\obj\Debug\netcoreapp2.1\6. Cards Game.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\6. Cards Game\obj\Debug\netcoreapp2.1\6. Cards Game.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\14.06.2019\Lists\6. Cards Game\obj\Debug\netcoreapp2.1\6. Cards Game.pdb
